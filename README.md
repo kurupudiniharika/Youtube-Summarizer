@@ -3,8 +3,6 @@
 ## 📖 About This Project
 This is a **Gemini-powered web application** that takes a YouTube link as input and provides a concise AI-generated summary. It uses **Google's Gemini API** via the **Google Gen AI SDK** and is built with **Flask** for the backend and deployed on **Cloud Run**.
 
-This project was created based on a codelab by **Thu Ya Kyaw** and **Alvin Prayuda Juniarta Dwiyantoro** (Last updated: March 13, 2025).
-
 ---
 ## 🚀 Features
 - Summarizes YouTube videos using **Gemini 2.0 Flash**.
@@ -26,7 +24,6 @@ This project was created based on a codelab by **Thu Ya Kyaw** and **Alvin Prayu
 
 ---
 
----
 ## 📦 Project Structure
 ## ⚙️ Tech Stack
 - **Backend:** Python (Flask)
@@ -38,7 +35,7 @@ This project was created based on a codelab by **Thu Ya Kyaw** and **Alvin Prayu
 ---
 
 ## 📜 Installation
-1. Clone the repository:
+   Clone the repository:
    ```bash
    git clone https://github.com/yourusername/gemini-youtube-summarizer.git
    cd gemini-youtube-summarizer
